@@ -1,8 +1,12 @@
-# 你好，我是文轩 👋
+# 你好，我是文轩（Celia）👋
 
 我在用 AI Agent 把想法变成真正能用的产品。
 
 我关心的不只是「让 AI 完成一次任务」，而是怎样让它理解人的目标、记住经过确认的事实，并在一次次使用中形成持续成长的系统。最近，我主要在做 Agent Skill、AI 求职产品和个人效率工具。
+
+**AI 产品经理 / Agent Builder，正在寻找 AI 产品相关的实习与合作机会。**
+
+🌐 [个人网站](https://liwenxuan.online/) · 📕 [小红书](https://www.xiaohongshu.com/user/profile/6148855e00000000020272cd) · ✉️ [邮箱](mailto:riwonswain@163.com)
 
 ---
 
@@ -16,13 +20,7 @@
 
 ---
 
-## ⭐ 代表项目
-
-### 🎯 [OfferLoop](https://github.com/riwonswain-ovo/OfferLoop)
-
-让 Agent 不只在一次对话里帮你完成任务，而是把每次投递、训练和面试连接起来，形成长期可维护的求职闭环。
-
-`Agent Skill` · `AI 求职` · `Python` · `TypeScript` · `飞书`
+## 🧩 其他项目
 
 ### 🗂️ [TabPage](https://github.com/riwonswain-ovo/tabpage-chrome-extension)
 
