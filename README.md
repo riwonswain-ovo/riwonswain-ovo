@@ -6,7 +6,6 @@
 
 **AI 产品经理 / Agent Builder，正在寻找 AI 产品相关的实习与合作机会。**
 
-🌐 [个人网站](https://liwenxuan.online/) · 📕 [小红书](https://www.xiaohongshu.com/user/profile/6148855e00000000020272cd) · ✉️ [邮箱](mailto:riwonswain@163.com)
 
 ---
 
