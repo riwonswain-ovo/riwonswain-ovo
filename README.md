@@ -13,9 +13,9 @@
 
 把零散的招聘信息、真实经历和面试反馈，变成一套会持续成长的求职系统。
 
-🎯 [**OfferLoop**](https://github.com/riwonswain-ovo/OfferLoop) — 由 9 个 Agent Skill 组成的开源 AI 求职系统，覆盖招聘信息与进展管理、经历深挖、定制简历、能力训练、面试准备与复盘。
+🎯 [**OfferLoop**](https://github.com/riwonswain-ovo/OfferLoop) — 由 7 个长期 Agent Skill 与飞书工作区组成的开源 AI 求职系统，连接招聘机会、求职进展、经历深挖、定制简历、面试准备与复盘。
 
-它既可以完整安装，也可以只使用其中一个 Skill；支持 Codex、Claude Code、Hermes Agent 和 WorkBuddy，并可按需接入飞书知识库。
+它会把企业、投递、笔面试和求职材料持续沉淀到三张飞书业务 Base 与私有知识库中；支持 Codex、Claude Code、Hermes Agent 和 WorkBuddy。
 
 ---
 
