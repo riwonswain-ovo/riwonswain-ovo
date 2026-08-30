@@ -1,41 +1,84 @@
-# 你好，我是 Celia 👋
+<p align="center">
+  <img src="assets/profile-header.svg" alt="2027 届 AI 产品经理与策略产品经理个人作品集" width="100%" />
+</p>
 
-我在用 AI Agent 把想法变成真正能用的产品。
+<p align="center">
+  你好！我是一名 2027 届应届生，目前正在寻找 <strong>AI 产品经理 / 策略产品经理</strong>方向的校招机会。
+</p>
 
-我关心的不只是「让 AI 完成一次任务」，而是怎样让它理解人的目标、记住经过确认的事实，并在一次次使用中形成持续成长的系统。最近，我主要在做 Agent Skill、AI 求职产品和个人效率工具。
+<p align="center">
+  我习惯从日常使用中捕捉那些不够顺手的细节，也更相信把想法做出来，比停留在方案里更重要。<br />
+  在没有现成开发资源时，我会借助 AI 把问题变成真正能用的产品，再在持续使用中一点点把它打磨好。
+</p>
 
-**AI 产品经理 / Agent Builder，正在寻找 AI 产品相关的实习与合作机会。**
-
-
----
-
-## 🆕 最近在做：OfferLoop
-
-把零散的招聘信息、真实经历和面试反馈，变成一套会持续成长的求职系统。
-
-🎯 [**OfferLoop**](https://github.com/riwonswain-ovo/OfferLoop) — 由 7 个长期 Agent Skill 与飞书工作区组成的开源 AI 求职系统，连接招聘机会、求职进展、经历深挖、定制简历、面试准备与复盘。
-
-它会把企业、投递、笔面试和求职材料持续沉淀到三张飞书业务 Base 与私有知识库中；支持 Codex、Claude Code、Hermes Agent 和 WorkBuddy。
+<p align="center">
+  <a href="mailto:riwonswain@163.com"><strong>riwonswain@163.com</strong></a>
+</p>
 
 ---
 
-## 🧩 其他项目
+## 能力与工具
 
-### 🗂️ [TabPage](https://github.com/riwonswain-ovo/tabpage-chrome-extension)
+<table>
+  <tr>
+    <td width="56%" valign="top">
+      <strong>产品能力</strong><br /><br />
+      需求洞察　·　产品设计　·　策略分析　·　AI 应用　·　快速验证
+    </td>
+    <td width="44%" valign="top">
+      <strong>常用工具</strong><br /><br />
+      SQL　·　Figma　·　Axure　·　Python
+    </td>
+  </tr>
+</table>
 
-一个中文 Chrome 新标签页扩展，把收藏整理、标签页管理和待读清单放进同一个极简工作台；支持拖拽排序、跨窗口标签切换和收藏与标签互通。
+## 精选项目
 
-`Chrome Extension` · `JavaScript` · `Manifest V3` · `个人效率`
+<table>
+  <tr>
+    <td width="55%" valign="top">
+      <a href="https://github.com/riwonswain-ovo/OfferLoop">
+        <img src="https://raw.githubusercontent.com/riwonswain-ovo/OfferLoop/main/docs/images/product-ui/usage-guide-anonymized.png" alt="OfferLoop 飞书工作区产品界面" width="100%" />
+      </a>
+    </td>
+    <td width="45%" valign="top">
+      <h3>OfferLoop</h3>
+      <p><strong>让每一次求职行动，都为下一步积累。</strong></p>
+      <p>由 7 个 Agent Skill 与飞书工作区组成的开源 AI 求职系统，连接招聘机会、求职进展、经历深挖、定制简历、面试准备与复盘。</p>
+      <p>我希望解决求职信息和材料散落、每次使用 AI 都要重新解释背景的问题。项目覆盖了问题定义、产品流程设计、功能实现、测试和公开发布。</p>
+      <p>
+        <a href="https://github.com/riwonswain-ovo/OfferLoop"><strong>查看代码</strong></a>
+       　·　
+        <a href="https://offerloop-website.vercel.app"><strong>产品官网</strong></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<table>
+  <tr>
+    <td width="45%" valign="top">
+      <h3>TabPage</h3>
+      <p><strong>让收藏、标签页和待读清单回到同一个入口。</strong></p>
+      <p>我发现浏览器收藏与已打开的标签页长期分散管理：收藏难找，页面又容易重复打开。因此，我在 Tab Out 的基础上继续进行产品设计与功能增强。</p>
+      <p>TabPage 增加了收藏分类、拖拽排序、跨窗口标签切换、重复标签检测，以及收藏与标签页之间的互通。</p>
+      <p><a href="https://github.com/riwonswain-ovo/tabpage-chrome-extension"><strong>查看项目</strong></a></p>
+    </td>
+    <td width="55%" valign="top">
+      <a href="https://github.com/riwonswain-ovo/tabpage-chrome-extension">
+        <img src="assets/tabpage-preview.png" alt="TabPage 收藏分类产品界面" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🔭 我在关注
-
-- **Agent Skill 产品化**：把复杂工作流封装成清晰、可安装、可组合的能力
-- **长期上下文**：让 AI 记住经过确认的事实，而不是每次从零开始
-- **人机协作体验**：让不以写代码为职业的人，也能借助 Coding Agent 完成真实产品
-- **个人系统**：把分散的信息、行动和复盘连接成可持续成长的闭环
-
----
-
-> 对我来说，代码不只是实现功能的工具，也是一种把想法变成现实的方式。
+<p align="center">
+  <strong>正在寻找 2027 届 AI 产品经理 / 策略产品经理校招正式岗位</strong><br /><br />
+  如果你对我的项目或经历感兴趣，欢迎通过
+  <a href="mailto:riwonswain@163.com">riwonswain@163.com</a>
+  联系我。
+</p>
