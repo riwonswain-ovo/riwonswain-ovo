@@ -19,18 +19,11 @@
 
 ## 能力与工具
 
-<table>
-  <tr>
-    <td width="56%" valign="top">
-      <strong>产品能力</strong><br /><br />
-      需求洞察　·　产品设计　·　策略分析　·　AI 应用　·　快速验证
-    </td>
-    <td width="44%" valign="top">
-      <strong>常用工具</strong><br /><br />
-      SQL　·　Figma　·　Axure　·　Python
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/capability-map.svg" alt="需求洞察、产品设计、策略分析、AI 应用与快速验证" width="100%" />
+</p>
+
+<p align="center"><strong>常用工具</strong>　 SQL　·　Figma　·　Axure　·　Python</p>
 
 ## 精选项目
 
