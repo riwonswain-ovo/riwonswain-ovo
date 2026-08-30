@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="560" viewBox="0 0 1280 560">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#070B16"/><stop offset=".58" stop-color="#0B1224"/><stop offset="1" stop-color="#101A31"/></linearGradient>
+    <radialGradient id="glowA" cx="0" cy="0" r="1" gradientTransform="translate(1110 70) rotate(135) scale(480 360)"><stop stop-color="#6F7CFF" stop-opacity=".28"/><stop offset="1" stop-color="#6F7CFF" stop-opacity="0"/></radialGradient>
+    <radialGradient id="glowB" cx="0" cy="0" r="1" gradientTransform="translate(820 510) rotate(-70) scale(360 500)"><stop stop-color="#38D6C1" stop-opacity=".16"/><stop offset="1" stop-color="#38D6C1" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#FFFFFF" stroke-opacity=".035"/></pattern>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="18" stdDeviation="28" flood-color="#000" flood-opacity=".35"/></filter>
+  </defs>
+  <rect width="1280" height="560" rx="30" fill="url(#bg)"/><rect width="1280" height="560" rx="30" fill="url(#glowA)"/><rect width="1280" height="560" rx="30" fill="url(#glowB)"/><rect x="1" y="1" width="1278" height="558" rx="29" fill="none" stroke="#FFFFFF" stroke-opacity=".10"/><rect width="1280" height="560" rx="30" fill="url(#grid)"/>
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif">
+    <g transform="translate(74 70)">
+      <rect width="178" height="34" rx="17" fill="#38D6C1" fill-opacity=".11" stroke="#38D6C1" stroke-opacity=".34"/><circle cx="19" cy="17" r="4" fill="#38D6C1"/><text x="34" y="23" fill="#8BE7DA" font-size="15" font-weight="600" letter-spacing="1.2">2027 届校园招聘</text>
+      <text x="0" y="102" fill="#F7F9FC" font-size="54" font-weight="720" letter-spacing="-1">AI 产品经理 / 策略产品经理</text><text x="0" y="160" fill="#AAB5C8" font-size="29" font-weight="420">把产品想法，做成真正能用的东西。</text><rect y="188" width="62" height="4" rx="2" fill="#38D6C1"/><rect x="70" y="188" width="22" height="4" rx="2" fill="#F2B86B"/>
+      <text x="0" y="245" fill="#D9E0EC" font-size="18"><tspan x="0">我习惯从日常使用中捕捉那些不够顺手的细节，也更相信把想法做出来，</tspan><tspan x="0" dy="32">比停留在方案里更重要。在没有现成开发资源时，我会借助 AI 把问题变成</tspan><tspan x="0" dy="32">真正能用的产品，再在持续使用中一点点把它打磨好。</tspan></text>
+      <g transform="translate(0 372)"><rect width="292" height="48" rx="14" fill="#FFFFFF" fill-opacity=".055" stroke="#FFFFFF" stroke-opacity=".11"/><circle cx="26" cy="24" r="8" fill="none" stroke="#F2B86B" stroke-width="1.5"/><path d="M20 21.5l6 4 6-4" fill="none" stroke="#F2B86B" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/><text x="47" y="30" fill="#F7F9FC" font-size="16" font-weight="520">riwonswain@163.com</text></g>
+    </g>
+    <g transform="translate(917 117)" filter="url(#shadow)">
+      <rect width="286" height="326" rx="25" fill="#0D162B" fill-opacity=".92" stroke="#FFFFFF" stroke-opacity=".13"/><text x="28" y="46" fill="#7F8BA3" font-size="12" font-weight="650" letter-spacing="2">HOW I BUILD</text><path d="M48 92V272" stroke="#FFFFFF" stroke-opacity=".10"/>
+      <g><circle cx="48" cy="92" r="12" fill="#38D6C1" fill-opacity=".14" stroke="#38D6C1"/><circle cx="48" cy="92" r="4" fill="#38D6C1"/><text x="78" y="98" fill="#E9EDF5" font-size="17" font-weight="580">发现问题</text><text x="78" y="121" fill="#7F8BA3" font-size="13">从真实使用开始</text></g>
+      <g><circle cx="48" cy="182" r="12" fill="#6F7CFF" fill-opacity=".14" stroke="#6F7CFF"/><circle cx="48" cy="182" r="4" fill="#6F7CFF"/><text x="78" y="188" fill="#E9EDF5" font-size="17" font-weight="580">借助 AI 实现</text><text x="78" y="211" fill="#7F8BA3" font-size="13">把方案变成产品</text></g>
+      <g><circle cx="48" cy="272" r="12" fill="#F2B86B" fill-opacity=".14" stroke="#F2B86B"/><circle cx="48" cy="272" r="4" fill="#F2B86B"/><text x="78" y="278" fill="#E9EDF5" font-size="17" font-weight="580">持续验证</text><text x="78" y="301" fill="#7F8BA3" font-size="13">在使用中不断打磨</text></g>
+    </g>
+  </g>
+</svg>
