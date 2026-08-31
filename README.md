@@ -42,7 +42,7 @@
       <p>
         <a href="https://github.com/riwonswain-ovo/OfferLoop"><strong>查看代码</strong></a>
        　·　
-        <a href="https://offerloop-website.vercel.app"><strong>产品官网</strong></a>
+        <a href="https://offerloop.online/"><strong>产品官网</strong></a>
       </p>
     </td>
   </tr>
